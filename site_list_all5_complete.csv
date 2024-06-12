@@ -1,0 +1,113 @@
+﻿Site ID,Site Name,IGBP,Climate,Latitude,Longitude,Elevation,WI,Data Source,Duration_Group
+AT-Neu,Neustift,GRA,Dfc,47.11667,11.3175,970,1.72,FLUXNET2015,Spring10
+BE-Bra,Brasschaat,MF,Cfb,51.30761,4.51984,16,1.20,ICOS-2020,Spring10
+BE-Vie,Vielsalm,MF,Cfb,50.30493,5.99812,493,1.82,ICOS-2020,Spring10
+CA-Cbo,"Ontario - Mixed Deciduous, Borden Forest Site",DBF,Dfb,44.3167,-79.9333,120,1.28,OneFlux,Spring10
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",MF,Dfb,48.2167,-82.1556,340,1.35,FLUXNET2015,Spring10
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),ENF,Dfc,55.87962,-98.48081,259,1.06,FLUXNET2015,Spring10
+CA-Oas,"Saskatchewan - Western Boreal, Mature Aspen",DBF,Dfc,53.62889,-106.19779,530,0.79,FLUXNET2015,Spring10
+CA-Obs,"Saskatchewan - Western Boreal, Mature Black Spruce",ENF,Dfc,53.98717,-105.11779,628.94,0.86,FLUXNET2015,Spring10
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,ENF,Dfb,42.70681111,-80.34831389,184,1.30,FLUXNET2015,Spring10
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,ENF,Dfb,42.710161,-80.357376,184,1.33,OneFlux,Spring10
+CH-Cha,Chamau,GRA,Cfb,47.21022,8.41044,393,1.78,ICOS-2020,Spring10
+CH-Dav,Davos,ENF,Dfc,46.81533,9.85591,1639,2.17,ICOS-2020,Spring10
+CH-Fru,Fruebuel,GRA,Cfb,47.11583,8.53778,982,2.12,ICOS-2020,Spring10
+CH-Lae,Laegern,MF,Cfb,47.47833,8.36439,689,1.72,ICOS-2020,Spring10
+CZ-BK1,Bily Kriz forest,ENF,Dfb,49.50208,18.53688,875,1.80,ICOS-2020,Spring10
+CZ-Stn,Stitna,DBF,Cfb,49.035975,17.9699,562,1.17,ICOS-2020,Spring10
+CZ-wet,Trebon (CZECHWET),WET,Dfb,49.02465,14.77035,426,1.00,ICOS-2020,Spring10
+DE-Gri,Grillenburg,GRA,Cfb,50.95004,13.51259,385,1.24,ICOS-2020,Spring10
+DE-Hai,Hainich,DBF,Cfb,51.07921,10.45217,430,1.38,ICOS-2020,Spring10
+DE-Obe,Oberbarenburg,ENF,Cfb,50.78666,13.72129,734,1.51,ICOS-2020,Spring10
+DE-Tha,Tharandt,ENF,Cfb,50.96256,13.56515,385,1.13,ICOS-2020,Spring10
+DK-Sor,Soroe,DBF,Cfb,55.48587,11.64464,40,1.00,ICOS-2020,Spring10
+ES-Agu,Aguamarga,OSH,Bsh,36.940046,-2.033208,202,0.19,ICOS-2020,Spring10
+ES-LJu,Llano de los Juanes,OSH,Csb,36.92659,-2.75212,1600,0.44,ICOS-2020,Spring10
+FI-Hyy,Hyytiala,ENF,Dfc,61.84741,24.29477,181,1.51,ICOS-2020,Spring10
+FI-Let,Lettosuo,ENF,Dfb,60.64183,23.95952,125,1.42,ICOS-2020,Spring10
+FI-Sod,Sodankyla,ENF,Dfc,67.36239,26.63859,180,1.52,FLUXNET2015,Spring10
+FR-FBn,Font-Blanche,MF,Csa,43.24079,5.67865,436,0.52,ICOS-2020,Spring10
+FR-Fon,Fontainebleau-Barbeau,DBF,Cfb,48.47636,2.7801,103,0.80,ICOS-2020,Spring10
+FR-Pue,Puechabon,EBF,Csa,43.7413,3.5957,270,0.55,FLUXNET2015,Spring10
+IL-Yat,Yatir,ENF,Csa,31.34504459,35.05198851,657,0.17,ICOS-2020,Spring10
+IT-Col,Collelongo,DBF,Cfb,41.84936,13.58814,1560,0.99,FLUXNET2015,Spring10
+IT-Lav,Lavarone,ENF,Dfb,45.9562,11.28132,1353,0.86,ICOS-2020,Spring10
+IT-MBo,Monte Bondone,GRA,Dfb,46.01468,11.04583,1550,0.64,ICOS-2020,Spring10
+IT-Noe,Arca di Noe - Le Prigionette,CSH,Csa,40.60618,8.15169,25,0.66,FLUXNET2015,Spring10
+IT-Ren,Renon,ENF,Dfc,46.58686,11.43369,1730,1.32,ICOS-2020,Spring10
+IT-SRo,San Rossore,ENF,Csa,43.72786,10.28444,6,0.83,FLUXNET2015,Spring10
+IT-Tor,Torgnon,GRA,Dfc,45.84444,7.57806,2160,2.80,ICOS-2020,Spring10
+NL-Loo,Loobos,ENF,Cfb,52.16658,5.74356,25,1.34,ICOS-2018,Spring10
+RU-Fyo,Fyodorovskoye,ENF,Dfb,56.46153,32.92208,265,1.37,ICOS-2020,Spring10
+SE-Deg,Degero,WET,Dfc,64.182029,19.556539,270,1.56,ICOS-2020,Spring10
+US-Bar,Bartlett Experimental Forest,DBF,Dfb,44.0646,-71.2881,272,1.92,OneFlux,Spring10
+US-Ha1,Harvard Forest EMS Tower (HFR1),DBF,Dfb,42.5378,-72.1715,340,1.61,FLUXNET2015,Spring10
+US-Me2,Metolius mature ponderosa pine,ENF,Csb,44.4523,-121.5574,1253,0.88,OneFlux,Spring10
+US-MMS,Morgan Monroe State Forest,DBF,Cfa,39.3232,-86.4131,275,1.23,OneFlux,Spring10
+US-NR1,Niwot Ridge Forest (LTER NWT1),ENF,Dfc,40.0329,-105.5464,3050,0.80,FLUXNET2015,Spring10
+US-Oho,Oak Openings,DBF,Dfa,41.5545,-83.8438,230,1.02,FLUXNET2015,Spring10
+US-PFa,Park Falls/WLEF,MF,Dfb,45.9459,-90.2723,470,1.29,FLUXNET2015,Spring10
+US-Seg,Sevilleta grassland,GRA,Bsk,34.3623,-106.702,1622,0.16,OneFlux,Spring10
+US-Ses,Sevilleta shrubland,OSH,Bsk,34.3349,-106.7442,1604,0.16,OneFlux,Spring10
+US-SRG,Santa Rita Grassland,GRA,Bsk,31.789379,-110.827675,1291,0.33,OneFlux,Spring10
+US-SRM,Santa Rita Mesquite,WSA,Bsk,31.8214,-110.8661,1120,0.26,FLUXNET2015,Spring10
+US-Ton,Tonzi Ranch,WSA,Csa,38.43093184,-120.9659907,177,0.45,FLUXNET2015,Spring10
+US-Uaf,"University of Alaska, Fairbanks",ENF,Dwc,64.8663,-147.8555,155,0.68,OneFlux,Spring10
+US-UMB,Univ. of Mich. Biological Station,DBF,Dfb,45.5598,-84.7138,234,1.14,OneFlux,Spring10
+US-UMd,UMBS Disturbance,DBF,Dfb,45.5625,-84.6975,239,1.12,OneFlux,Spring10
+US-Var,Vaira Ranch- Ione,GRA,Csa,38.41329154,-120.9507564,129,0.46,FLUXNET2015,Spring10
+US-Vcp,Valles Caldera Ponderosa Pine,ENF,Dfb,35.8624,-106.5974,2542,0.63,OneFlux,Spring10
+US-WCr,Willow Creek,DBF,Dfb,45.8059,-90.0799,520,1.29,FLUXNET2015,Spring10
+US-Wjs,Willard Juniper Savannah,SAV,Bsk,34.4255,-105.8615,1931,0.23,OneFlux,Spring10
+US-Wkg,Walnut Gulch Kendall Grasslands,GRA,Bsk,31.7365,-109.9419,1531,0.23,FLUXNET2015,Spring10
+IT-Ro2,Roccarespampani 2,DBF,Csa,42.39026,11.92093,160,0.37,FLUXNET2015,Summer10
+US-GLE,GLEES,ENF,Dfc,41.36653,-106.2399,3197,0.83,FLUXNET2015,Summer10
+US-Mpj,Mountainair Pinyon-Juniper Woodland,WSA,Bsk,34.4385,-106.2377,2196,0.29,OneFlux,Summer10
+BE-Dor,Dorinne,GRA,Cfb,50.31135,4.968591,247,1.31,ICOS-2020,All5
+CA-Ca1,British Columbia - 1949 Douglas-fir stand,ENF,Cfb,49.8673,-125.3336,300,2.60,OneFlux,All5
+CA-Ca2,British Columbia - Clearcut Douglas-fir stand (harvested winter 1999/2000),ENF,Cfb,49.8705,-125.2909,300,2.28,OneFlux,All5
+CA-Ca3,British Columbia - Pole sapling Douglas-fir stand,ENF,Cfb,49.5346,-124.9004,120,2.26,OneFlux,All5
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce",ENF,Dfc,49.6925,-74.34206,382,2.06,FLUXNET2015,All5
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,ENF,Dfb,42.66093611,-80.55951944,265,1.33,FLUXNET2015,All5
+CA-WP1,"Alberta - Western Peatland - LaBiche River,Black Spruce/Larch Fen",WET,Dfc,54.9538,-112.467,540,0.76,OneFlux,All5
+CH-Aws,Alp Weissenstein,GRA,Dfc,46.583306,9.790417,1988,3.17,ICOS-2020,All5
+CH-Oe1,Oensingen grassland,GRA,Cfb,47.28583,7.73194,450,1.69,FLUXNET2015,All5
+CZ-Lnz,Lanzhot,DBF,Cfb,48.68155,16.946331,150,0.82,ICOS-2020,All5
+CZ-RAJ,Rajec,ENF,Cfb,49.4437236,16.6965125,649,0.90,ICOS-2020,All5
+DE-HoH,Hohes Holz,DBF,Cfb,52.08656,11.22235,193,0.86,ICOS-2020,All5
+DE-Hte,Huetelmoor,WET,Cfb,54.210278,12.176111,1,1.02,ICOS-2018,All5
+DE-Hzd,Hetzdorf,DBF,Cfb,50.96381,13.48978,395,1.17,ICOS-2020,All5
+DE-Lnf,Leinefelde,DBF,Cfb,51.32822,10.3678,451,1.37,FLUXNET2015,All5
+DE-RuR,Rollesbroich,GRA,Cfb,50.62191,6.30413,514.7,1.79,ICOS-2020,All5
+DE-RuW,Wustebach,ENF,Cfb,50.50493,6.3309627,610,2.06,ICOS-2020,All5
+ES-Abr,Albuera,WSA,Csa,38.701839,-6.785881,279,0.42,ICOS-2020,All5
+ES-LM1,Majadas del Tietar North,WSA,Csa,39.94269,-5.778683,266,0.38,ICOS-2020,All5
+ES-LM2,Majadas del Tietar South,WSA,Csa,39.934592,-5.775881,270,0.38,ICOS-2020,All5
+FI-Var,Varrio,ENF,Dfc,67.7549,29.61,395,1.87,ICOS-2020,All5
+FR-Bil,Bilos,ENF,Cfb,44.493652,-0.956092,39,1.03,ICOS-2020,All5
+FR-Hes,Hesse,DBF,Cfb,48.6741,7.06465,310,1.12,ICOS-2020,All5
+IT-Cpz,Castelporziano,EBF,Csa,41.70525,12.37611,68,0.71,FLUXNET2015,All5
+IT-Lsn,Lison,OSH,Cfa,45.740482,12.750297,1,1.18,ICOS-2020,All5
+IT-Ro1,Roccarespampani 1,DBF,Csa,42.40812,11.93001,235,0.37,FLUXNET2015,All5
+IT-SR2,San Rossore 2,ENF,Csa,43.73202,10.29091,4,0.83,ICOS-2020,All5
+NL-Hor,Horstermeer,GRA,Cfb,52.24035,5.0713,2.2,1.36,FLUXNET2015,All5
+RU-Fy2,Fyodorovskoye dry spruce,ENF,Dfb,56.4476,32.9019,276,1.38,ICOS-2020,All5
+SE-Htm,Hyltemossa,ENF,Cfb,56.09763,13.41897,115,1.69,ICOS-2020,All5
+SE-Nor,Norunda,ENF,Dfb,60.0865,17.479504,45,1.19,ICOS-2020,All5
+SE-Ros,Rosinedal-3,ENF,Dfc,64.1725,19.738,157,1.56,ICOS-2020,All5
+SE-Svb,Svartberget,ENF,Dfc,64.25611,19.7745,267,1.65,ICOS-2020,All5
+US-Blo,Blodgett Forest,ENF,Csa,38.8953,-120.6328,1315,1.24,FLUXNET2015,All5
+US-Dk2,Duke Forest-hardwoods,DBF,Cfa,35.9736,-79.1004,168,1.05,OneFlux,All5
+US-Dk3,Duke Forest - loblolly pine,ENF,Cfa,35.9782,-79.0942,163,1.05,OneFlux,All5
+US-Fmf,Flagstaff - Managed Forest,ENF,Csb,35.1426,-111.7273,2160,0.48,OneFlux,All5
+US-Fuf,Flagstaff - Unmanaged Forest,ENF,Csb,35.089,-111.762,2180,0.50,OneFlux,All5
+US-Ho1,Howland Forest (main tower),ENF,Dfb,45.2041,-68.7402,60,1.64,OneFlux,All5
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),GRA,Dfa,41.84062,-88.24103,226.5,1.08,FLUXNET2015,All5
+US-KFS,Kansas Field Station,GRA,Cfa,39.0561,-95.1907,310,0.91,OneFlux,All5
+US-Los,Lost Creek,WET,Dfb,46.0827,-89.9792,480,1.31,FLUXNET2015,All5
+US-Me3,Metolius-second young aged pine,ENF,Csb,44.3154,-121.6078,1005,0.55,FLUXNET2015,All5
+US-Prr,Poker Flat Research Range Black Spruce Forest,ENF,Dwc,65.12367,-147.48756,210,0.76,OneFlux,All5
+US-SRC,Santa Rita Creosote,OSH,Bwh,31.9083,-110.8395,950,0.21,FLUXNET2015,All5
+US-Syv,Sylvania Wilderness Area,MF,Dfb,46.242,-89.3477,540,1.29,FLUXNET2015,All5
+US-Tw1,Twitchell Wetland West Pond,WET,Csa,38.1074,-121.6469,-5,0.29,OneFlux,All5
+US-Whs,Walnut Gulch Lucky Hills Shrub,OSH,Bsk,31.7438,-110.0522,1370,0.20,FLUXNET2015,All5
