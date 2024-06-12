@@ -1,4 +1,4 @@
-
+# ICOS 2018 data processed according to FLUXNET2015 format
 
 #####
 library(tidyverse)
@@ -6,20 +6,24 @@ library(lubridate) # might not need it
 library(reshape2)
 `%notin%` <- Negate(`%in%`) # %notin% function
 
-# location of FLUXNET2015 data
-setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+# location of ICOS 2018 drought data
+setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/icos_2018_drought_archive/icos_2018_data/")
 
 # Site
-site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+#site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+#site_list <- site_list[,1]
+site_list <- read.csv("../icos_2018_drought_site_list.csv", header = T)
 site_list <- site_list[,1]
+
 
 # Loop over site list
 for (flx_name in site_list){
   # Need to reset the path every time
-  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/icos_2018_drought_archive/icos_2018_data/")
   
   #flx_name <- "US-MMS"
   
+  # southern hemisphere not relevant for icos
   south_hem_sites <- c("AU-How", "AU-Tum", "BR-Sa1", "ZM-Mon",
                        "AU-DaP", "AU-DaS", "AU-Dry", "AU-Stp")
   
@@ -28,6 +32,7 @@ for (flx_name in site_list){
   
   flx[flx == -9999] <- NA
   
+  # southern hemisphere not relevant for ICOS
   # shift dates back by six months if site is in the southern hemisphere site list
   if (flx_name %in% south_hem_sites){
     print("Southern Hemisphere site - Shifting dates by -6 months")

@@ -7,19 +7,23 @@ library(reshape2)
 `%notin%` <- Negate(`%in%`) # %notin% function
 
 # location of FLUXNET2015 data
-setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+#setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/ameriflux/oneflux_beta/allsites_FULLSET")
 
 # Site
-site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+#site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+site_list <- read.csv("../oneflux_beta_sitelist.csv", header = T)
 site_list <- site_list[,1]
 
 # Loop over site list
 for (flx_name in site_list){
   # Need to reset the path every time
-  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+  #setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/ameriflux/oneflux_beta/allsites_FULLSET")
   
   #flx_name <- "US-MMS"
   
+  # no southern hemisphere sites in oneflux_beta, but leaving this in
   south_hem_sites <- c("AU-How", "AU-Tum", "BR-Sa1", "ZM-Mon",
                        "AU-DaP", "AU-DaS", "AU-Dry", "AU-Stp")
   
@@ -118,7 +122,7 @@ for (flx_name in site_list){
   
   # Set output to site name directory, Create directory of site name if necessary
   #setwd("../plots/flux_site_summary_updated_vpd/")
-  setwd("../plots/flux_site_summary_energy_swc1_spring/")
+  setwd("../plots/flux_site_summary_energy_swc1_spring/") # keep relative directory name the same for oneflux beta
   site_dirs <- list.files()
   if (flx_name %notin% site_dirs){
     dir.create(flx_name) 

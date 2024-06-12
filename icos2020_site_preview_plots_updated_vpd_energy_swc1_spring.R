@@ -1,4 +1,4 @@
-
+# ICOS 2020 data processed according to FLUXNET2015 format
 
 #####
 library(tidyverse)
@@ -6,28 +6,33 @@ library(lubridate) # might not need it
 library(reshape2)
 `%notin%` <- Negate(`%in%`) # %notin% function
 
-# location of FLUXNET2015 data
-setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+# location of ICOS 2020 drought data
+setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/icos_2020_warm_winter")
 
 # Site
-site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+#site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+#site_list <- site_list[,1]
+site_list <- read.csv("icos_2020_warm_winter_site_list.csv", header = T)
 site_list <- site_list[,1]
 
 # Loop over site list
 for (flx_name in site_list){
   # Need to reset the path every time
-  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
+  setwd("D:/berkeley/icos_warm_winter_2020")
   
   #flx_name <- "US-MMS"
   
+  # southern hemisphere not relevant for icos
   south_hem_sites <- c("AU-How", "AU-Tum", "BR-Sa1", "ZM-Mon",
                        "AU-DaP", "AU-DaS", "AU-Dry", "AU-Stp")
   
   # Load in site monthly data
   flx <- read.csv(list.files(pattern = glob2rx(paste("*", flx_name, "*FULLSET_MM*.csv", sep = "")), recursive = T)[1])
+  setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/icos_2020_warm_winter")
   
   flx[flx == -9999] <- NA
   
+  # southern hemisphere not relevant for ICOS
   # shift dates back by six months if site is in the southern hemisphere site list
   if (flx_name %in% south_hem_sites){
     print("Southern Hemisphere site - Shifting dates by -6 months")
@@ -39,7 +44,7 @@ for (flx_name in site_list){
     # if site is not in the southern hemisphere site list, keep as standard
     print("Northern Hemisphere site - not shifting dates")
     flx$year <- as.numeric(substr(as.character(flx$TIMESTAMP), 1, 4)) # get year
-    flx$month <- as.numeric(substr(as.character(flx$TIMESTAMP), 5, 6)) # get month 
+    flx$month <- as.numeric(substr(as.character(flx$TIMESTAMP), 5, 6)) # get month
   }
   
   #####
@@ -118,7 +123,7 @@ for (flx_name in site_list){
   
   # Set output to site name directory, Create directory of site name if necessary
   #setwd("../plots/flux_site_summary_updated_vpd/")
-  setwd("../plots/flux_site_summary_energy_swc1_spring/")
+  setwd("plots/flux_site_summary_energy_swc1_spring/")
   site_dirs <- list.files()
   if (flx_name %notin% site_dirs){
     dir.create(flx_name) 

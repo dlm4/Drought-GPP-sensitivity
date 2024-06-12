@@ -1,0 +1,107 @@
+SITE_ID,SITE_NAME,FLUXNET2015,FLUXNET.CH4,LOCATION_LAT,LOCATION_LONG,LOCATION_ELEV,IGBP,MAT,MAP,Climate,Climate Source
+AT-Neu,Neustift,CC-BY-4.0,CC-BY-4.0,47.11667,11.3175,970,GRA,6.5,852,Dfc,Rubel
+AU-DaP,Daly River Savanna,CC-BY-4.0,,-14.0633,131.3181,71,GRA,27.25,983.78,Aw,Rubel
+AU-DaS,Daly River Cleared,CC-BY-4.0,,-14.1593,131.3881,77,SAV,27.22,975.82,Aw,Rubel
+AU-Dry,Dry River,CC-BY-4.0,,-15.2588,132.3706,177,SAV,NA,NA,Aw,Rubel
+AU-How,Howard Springs,CC-BY-4.0,,-12.4943,131.1523,40,WSA,27.01,1449.35,Aw,Rubel
+AU-Stp,Sturt Plains,CC-BY-4.0,,-17.1507,133.3502,228,GRA,NA,NA,Bsh,Rubel
+AU-Tum,Tumbarumba,CC-BY-4.0,,-35.6566,148.1517,1200,EBF,10.72,1159.01,Cfb,Rubel
+BE-Bra,Brasschaat,CC-BY-4.0,,51.30761,4.51984,16,MF,9.8,750,Cfb,Rubel
+BE-Vie,Vielsalm,CC-BY-4.0,,50.30493,5.99812,493,MF,7.8,1062,Cfb,Rubel
+BR-Sa1,Santarem-Km67-Primary Forest,CC-BY-4.0,,-2.85667,-54.95889,88,EBF,26.13,2074.79,Am,AmeriFlux
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",CC-BY-4.0,,48.2167,-82.1556,340,MF,1.3,831,Dfb,AmeriFlux
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),CC-BY-4.0,,55.87962,-98.48081,259,ENF,-3.2,520,Dfc,AmeriFlux
+CA-Oas,"Saskatchewan - Western Boreal, Mature Aspen",CC-BY-4.0,,53.62889,-106.19779,530,DBF,0.34,428.53,Dfc,AmeriFlux
+CA-Obs,"Saskatchewan - Western Boreal, Mature Black Spruce",CC-BY-4.0,,53.98717,-105.11779,628.94,ENF,0.79,405.6,Dfc,AmeriFlux
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce",CC-BY-4.0,,49.6925,-74.34206,382,ENF,-0.36,962.32,Dfc,AmeriFlux
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,CC-BY-4.0,,42.66093611,-80.55951944,265,ENF,8,1036,Dfb,AmeriFlux
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,CC-BY-4.0,,42.70681111,-80.34831389,184,ENF,8,1036,Dfb,AmeriFlux
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,CC-BY-4.0,,42.710161,-80.357376,184,ENF,8,1036,Dfb,AmeriFlux
+CH-Cha,Chamau,CC-BY-4.0,CC-BY-4.0,47.21022,8.41044,393,GRA,9.5,1136,Cfb,Rubel
+CH-Dav,Davos,CC-BY-4.0,CC-BY-4.0,46.81533,9.85591,1639,ENF,2.8,1062,Dfc,Rubel (shifted)
+CH-Fru,Früebüel,CC-BY-4.0,,47.11583,8.53778,982,GRA,7.2,1651,Cfb,Rubel
+CH-Lae,Laegern,CC-BY-4.0,,47.47833,8.36439,689,MF,8.3,1100,Cfb,Rubel
+CH-Oe1,Oensingen grassland,CC-BY-4.0,,47.28583,7.73194,450,GRA,9,1100,Cfb,Rubel
+CZ-BK1,Bily Kriz forest,CC-BY-4.0,,49.50208,18.53688,875,ENF,6.7,1316,Dfb,Rubel
+CZ-BK2,Bily Kriz grassland,CC-BY-4.0,,49.49443,18.54285,855,GRA,6.7,1316,Dfb,Rubel
+CZ-wet,Trebon (CZECHWET),CC-BY-4.0,,49.02465,14.77035,426,WET,7.7,604,Cfb,Rubel
+DE-Gri,Grillenburg,CC-BY-4.0,,50.95004,13.51259,385,GRA,7.8,901,Cfb,Rubel
+DE-Hai,Hainich,CC-BY-4.0,,51.07921,10.45217,430,DBF,8.3,720,Cfb,Rubel
+DE-Lnf,Leinefelde,CC-BY-4.0,,51.32822,10.3678,451,DBF,6.96,894.6,Cfb,Rubel
+DE-Obe,Oberbärenburg,CC-BY-4.0,,50.78666,13.72129,734,ENF,5.5,996,Cfb,Rubel
+DE-Tha,Tharandt,CC-BY-4.0,,50.96256,13.56515,385,ENF,8.2,843,Cfb,Rubel
+DK-Sor,Soroe,CC-BY-4.0,,55.48587,11.64464,40,DBF,8.2,660,Cfb,Rubel
+ES-LJu,Llano de los Juanes,CC-BY-4.0,,36.92659,-2.75212,1600,OSH,16,400,Csb,Rubel
+FI-Hyy,Hyytiala,CC-BY-4.0,CC-BY-4.0,61.84741,24.29477,181,ENF,3.8,709,Dfc,Rubel
+FI-Sod,Sodankyla,CC-BY-4.0,,67.36239,26.63859,180,ENF,-1,500,Dfc,Rubel
+FR-Fon,Fontainebleau-Barbeau,CC-BY-4.0,,48.47636,2.7801,103,DBF,10.2,720,Cfb,Rubel
+FR-LBr,Le Bray,CC-BY-4.0,,44.71711,-0.7693,61,ENF,13.6,900,Cfb,Rubel
+FR-Pue,Puechabon,CC-BY-4.0,,43.7413,3.5957,270,EBF,13.5,883,Csa,Rubel
+GF-Guy,Guyaflux (French Guiana),CC-BY-4.0,,5.27877,-52.92486,48,EBF,25.7,3041,Am,Rubel
+GL-NuF,Nuuk Fen,CC-BY-4.0,,64.13083,-51.38611,50,WET,-1.4,750,ET,Rubel
+GL-ZaH,Zackenberg Heath,CC-BY-4.0,,74.47328,-20.5503,38,GRA,-9,211,ET,Rubel
+IT-Col,Collelongo,CC-BY-4.0,,41.84936,13.58814,1560,DBF,6.3,1180,Cfb,Rubel
+IT-Cpz,Castelporziano,CC-BY-4.0,,41.70525,12.37611,68,EBF,15.6,780,Csa,Rubel
+IT-Lav,Lavarone,CC-BY-4.0,,45.9562,11.28132,1353,ENF,7.8,1291,Dfb,Rubel
+IT-MBo,Monte Bondone,CC-BY-4.0,,46.01468,11.04583,1550,GRA,5.1,1214,Dfb,Rubel
+IT-Noe,Arca di Noe - Le Prigionette,CC-BY-4.0,,40.60618,8.15169,25,CSH,15.9,588,Csa,Rubel
+IT-Ren,Renon,CC-BY-4.0,,46.58686,11.43369,1730,ENF,4.7,809.3,Dfc,Rubel
+IT-Ro1,Roccarespampani 1,CC-BY-4.0,,42.40812,11.93001,235,DBF,15.15,876.2,Csa,Rubel
+IT-Ro2,Roccarespampani 2,CC-BY-4.0,,42.39026,11.92093,160,DBF,15.15,876.2,Csa,Rubel
+IT-SRo,San Rossore,CC-BY-4.0,,43.72786,10.28444,6,ENF,14.2,920,Csa,Rubel
+IT-Tor,Torgnon,CC-BY-4.0,,45.84444,7.57806,2160,GRA,2.9,920,Cfc,Rubel (shifted)
+MY-PSO,Pasoh Forest Reserve (PSO),CC-BY-4.0,,2.973,102.3062,147,EBF,NA,NA,Af,Rubel
+NL-Hor,Horstermeer,CC-BY-4.0,CC-BY-4.0,52.24035,5.0713,2.2,GRA,10,800,Cfb,Rubel
+NL-Loo,Loobos,CC-BY-4.0,,52.16658,5.74356,25,ENF,9.8,786,Cfb,Rubel
+RU-Cok,Chokurdakh,CC-BY-4.0,CC-BY-4.0,70.82914,147.49428,48,OSH,-14.3,232,Dfc,Rubel
+RU-Fyo,Fyodorovskoye,CC-BY-4.0,,56.46153,32.92208,265,ENF,3.9,711,Dfb,Rubel
+US-Blo,Blodgett Forest,CC-BY-4.0,,38.8953,-120.6328,1315,ENF,11.09,1226,Csa,AmeriFlux
+US-Cop,Corral Pocket,CC-BY-4.0,,38.09,-109.39,1520,GRA,NA,NA,Bsk,Rubel
+US-GBT,GLEES Brooklyn Tower,CC-BY-4.0,,41.36579,-106.2397,3191,ENF,0.8,1200,Dfc,AmeriFlux
+US-GLE,GLEES,CC-BY-4.0,,41.36653,-106.2399,3197,ENF,0.8,1200,Dfc,AmeriFlux
+US-Ha1,Harvard Forest EMS Tower (HFR1),CC-BY-4.0,,42.5378,-72.1715,340,DBF,6.62,1071,Dfb,AmeriFlux
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),CC-BY-4.0,,41.84062,-88.24103,226.5,GRA,9.04,930.25,Dfa,AmeriFlux
+US-Los,Lost Creek,CC-BY-4.0,CC-BY-4.0,46.0827,-89.9792,480,WET,4.08,828,Dfb,AmeriFlux
+US-Me2,Metolius mature ponderosa pine,CC-BY-4.0,,44.4523,-121.5574,1253,ENF,6.28,523,Csb,AmeriFlux
+US-MMS,Morgan Monroe State Forest,CC-BY-4.0,,39.3232,-86.4131,275,DBF,10.85,1032,Cfa,AmeriFlux
+US-NR1,Niwot Ridge Forest (LTER NWT1),CC-BY-4.0,,40.0329,-105.5464,3050,ENF,1.5,800,Dfc,AmeriFlux
+US-Oho,Oak Openings,CC-BY-4.0,,41.5545,-83.8438,230,DBF,10.1,849,Dfa,AmeriFlux
+US-PFa,Park Falls/WLEF,CC-BY-4.0,CC-BY-4.0,45.9459,-90.2723,470,MF,4.33,823,Dfb,AmeriFlux
+US-SRC,Santa Rita Creosote,CC-BY-4.0,,31.9083,-110.8395,950,OSH,22,330,Bwh,AmeriFlux
+US-SRG,Santa Rita Grassland,CC-BY-4.0,,31.789379,-110.827675,1291,GRA,17,420,Bsk,AmeriFlux
+US-SRM,Santa Rita Mesquite,CC-BY-4.0,,31.8214,-110.8661,1120,WSA,17.92,380,Bsk,AmeriFlux
+US-Syv,Sylvania Wilderness Area,CC-BY-4.0,,46.242,-89.3477,540,MF,3.81,826,Dfb,AmeriFlux
+US-Ton,Tonzi Ranch,CC-BY-4.0,,38.43093184,-120.9659907,177,WSA,15.8,559,Csa,AmeriFlux
+US-UMB,Univ. of Mich. Biological Station,CC-BY-4.0,,45.5598,-84.7138,234,DBF,5.83,803,Dfb,AmeriFlux
+US-UMd,UMBS Disturbance,CC-BY-4.0,,45.5625,-84.6975,239,DBF,5.83,803,Dfb,AmeriFlux
+US-Var,Vaira Ranch- Ione,CC-BY-4.0,,38.41329154,-120.9507564,129,GRA,15.8,559,Csa,AmeriFlux
+US-WCr,Willow Creek,CC-BY-4.0,,45.8059,-90.0799,520,DBF,4.02,787,Dfb,AmeriFlux
+US-Whs,Walnut Gulch Lucky Hills Shrub,CC-BY-4.0,,31.7438,-110.0522,1370,OSH,17.6,320,Bsk,AmeriFlux
+US-Wkg,Walnut Gulch Kendall Grasslands,CC-BY-4.0,,31.7365,-109.9419,1531,GRA,15.64,407,Bsk,AmeriFlux
+ZM-Mon,Mongu,CC-BY-4.0,,-15.4391,23.2525,1053,DBF,25,945,Aw,Rubel
+AU-ASM,Alice Springs,CC-BY-4.0,,-22.283,133.249,NA,SAV,NA,NA,Bwh,Rubel
+AU-Cpr,Calperum,CC-BY-4.0,,-34.0021,140.5891,NA,SAV,NA,NA,Bsk,Rubel
+AU-Wom,Wombat,CC-BY-4.0,,-37.4222,144.0944,705,EBF,NA,NA,Cfb,Rubel
+BR-Sa3,Santarem-Km83-Logged Forest,CC-BY-4.0,,-3.01803,-54.97144,100,EBF,26.12,2043.77,Am,AmeriFlux
+CA-NS1,UCI-1850 burn site,CC-BY-4.0,,55.87917,-98.48389,260,ENF,-2.89,500.29,Dfc,AmeriFlux
+CA-NS2,UCI-1930 burn site,CC-BY-4.0,,55.90583,-98.52472,260,ENF,-2.88,499.82,Dfc,AmeriFlux
+CA-NS3,UCI-1964 burn site,CC-BY-4.0,,55.91167,-98.38222,260,ENF,-2.87,502.22,Dfc,AmeriFlux
+CA-NS5,UCI-1981 burn site,CC-BY-4.0,,55.86306,-98.485,260,ENF,-2.86,500.34,Dfc,AmeriFlux
+CA-NS6,UCI-1989 burn site,CC-BY-4.0,,55.91667,-98.96444,244,OSH,-3.08,495.37,Dfc,AmeriFlux
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989",CC-BY-4.0,,54.25392,-105.8775,520,ENF,0.4,470,Dfc,AmeriFlux
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998",CC-BY-4.0,,54.09156,-106.00526,540,OSH,0.4,470,Dfc,AmeriFlux
+CA-TP2,Ontario - Turkey Point 1989 Plantation White Pine,CC-BY-4.0,,42.77441944,-80.458775,212,ENF,8,1036,Dfb,AmeriFlux
+DE-Akm,Anklam,CC-BY-4.0,,53.86617,13.68342,-1,WET,8.7,558,Cfb,Rubel
+DE-Lkb,Lackenberg,CC-BY-4.0,,49.09962,13.30467,1308,ENF,4,1599,Dfb,Rubel
+DE-Spw,Spreewald,CC-BY-4.0,,51.89225,14.03369,61,WET,8.7,558,Cfb,Rubel
+ES-Amo,Amoladeras,CC-BY-4.0,,36.83361,-2.25232,58,OSH,NA,0,Bsh,Rubel
+JP-SMF,Seto Mixed Forest Site,CC-BY-4.0,,35.2617,137.0788,NA,MF,NA,NA,Cfa,Rubel
+SD-Dem,Demokeya,CC-BY-4.0,,13.2829,30.4783,500,SAV,26,320,Bwh,Rubel
+US-Atq,Atqasuk,CC-BY-4.0,CC-BY-4.0,70.4696,-157.4089,15,WET,-9.7,93,ET,AmeriFlux
+US-Goo,Goodwin Creek,CC-BY-4.0,,34.2547,-89.8735,87,GRA,15.89,1425.77,Cfa,AmeriFlux
+US-Me3,Metolius-second young aged pine,CC-BY-4.0,,44.3154,-121.6078,1005,ENF,7.07,719,Csb,AmeriFlux
+US-Me4,Metolius-old aged ponderosa pine,CC-BY-4.0,,44.4992,-121.6224,922,ENF,7.61,1038.82,Csb,AmeriFlux
+US-Me6,Metolius Young Pine Burn,CC-BY-4.0,,44.3232842,-121.6078,998,ENF,7.59,494,Csb,AmeriFlux
+US-Myb,Mayberry Wetland,CC-BY-4.0,CC-BY-4.0,38.049861,-121.76498,-4,WET,15.9,338,Csa,AmeriFlux
+US-Prr,Poker Flat Research Range Black Spruce Forest,CC-BY-4.0,,65.12367,-147.48756,210,ENF,-2,275,Dwc,AmeriFlux
+US-Sta,Saratoga,CC-BY-4.0,,41.3966,-106.8024,2069,OSH,5.1,NA,Bsh,AmeriFlux

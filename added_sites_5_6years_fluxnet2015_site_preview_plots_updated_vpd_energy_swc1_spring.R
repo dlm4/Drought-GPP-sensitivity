@@ -1,4 +1,5 @@
 
+# Additional sites, 5-6 years, from FLUXNET2015
 
 #####
 library(tidyverse)
@@ -10,7 +11,7 @@ library(reshape2)
 setwd("C:/Users/David Miller/Documents/dlm_files/keenan_postdoc/fluxnet2015/FLUXNET2015-latest")
 
 # Site
-site_list <- read.csv("../fluxnet2015_sites_subset_list1_sorted.csv", header = T)
+site_list <- read.csv("../added_sites_5_6_years_fluxnet2015_site_locations_plaintext_duration.csv", header = T)
 site_list <- site_list[,1]
 
 # Loop over site list
@@ -21,7 +22,8 @@ for (flx_name in site_list){
   #flx_name <- "US-MMS"
   
   south_hem_sites <- c("AU-How", "AU-Tum", "BR-Sa1", "ZM-Mon",
-                       "AU-DaP", "AU-DaS", "AU-Dry", "AU-Stp")
+                       "AU-DaP", "AU-DaS", "AU-Dry", "AU-Stp",
+                       "AU-ASM", "AU-Cpr", "AU-Wom", "BR-Sa3") # needed to add a few more sites
   
   # Load in site monthly data
   flx <- read.csv(list.files(pattern = glob2rx(paste("*", flx_name, "*FULLSET_MM*.csv", sep = "")), recursive = T)[1])
@@ -118,7 +120,7 @@ for (flx_name in site_list){
   
   # Set output to site name directory, Create directory of site name if necessary
   #setwd("../plots/flux_site_summary_updated_vpd/")
-  setwd("../plots/flux_site_summary_energy_swc1_spring/")
+  setwd("../plots/added_sites_5_6years/flux_site_summary_energy_swc1_spring/")
   site_dirs <- list.files()
   if (flx_name %notin% site_dirs){
     dir.create(flx_name) 

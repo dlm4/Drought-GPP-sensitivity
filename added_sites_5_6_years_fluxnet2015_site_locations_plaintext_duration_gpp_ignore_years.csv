@@ -1,0 +1,27 @@
+﻿SITE_ID,SITE_NAME,FLUXNET2015,FLUXNET.CH4,LOCATION_LAT,LOCATION_LONG,LOCATION_ELEV,IGBP,MAT,MAP,Data_Start,Data_End,Duration,SPRING,SUMMER,FALL,Notes
+AU-ASM,Alice Springs,CC-BY-4.0,,-22.283,133.249,NA,SAV,NA,NA,2010,2014,5,,"c(2009, 2014)",c(2009),Summer gets split up since southern hem and would only keep spring
+AU-Cpr,Calperum,CC-BY-4.0,,-34.0021,140.5891,NA,SAV,NA,NA,2010,2014,5,,"c(2009, 2013, 2014)","c(2009, 2014)",Summer gets split up since southern hem and would only keep spring
+AU-Wom,Wombat,CC-BY-4.0,,-37.4222,144.0944,705,EBF,NA,NA,2010,2014,5,,"c(2009, 2014)",,Lose summer but get spring and fall
+BR-Sa3,Santarem-Km83-Logged Forest,CC-BY-4.0,,-3.01803,-54.97144,100,EBF,26.12,2043.77,2000,2004,5,c(2004),"c(1999, 2004)",c(1999),remove too tropical
+CA-NS1,UCI-1850 burn site,CC-BY-4.0,,55.87917,-98.48389,260,ENF,-2.89,500.29,2001,2005,5,"c(2001, 2002)",c(2001),"c(2001, 2005)",not enough site years after filtering
+CA-NS2,UCI-1930 burn site,CC-BY-4.0,,55.90583,-98.52472,260,ENF,-2.88,499.82,2001,2005,5,"c(2001, 2005)",c(2001),c(2005),lose some years never all five
+CA-NS3,UCI-1964 burn site,CC-BY-4.0,,55.91167,-98.38222,260,ENF,-2.87,502.22,2001,2005,5,c(2001),c(2001),c(2005),lose some years never all five
+CA-NS5,UCI-1981 burn site,CC-BY-4.0,,55.86306,-98.485,260,ENF,-2.86,500.34,2001,2005,5,c(2001),c(2001),c(2005),lose some years never all five
+CA-NS6,UCI-1989 burn site,CC-BY-4.0,,55.91667,-98.96444,244,OSH,-3.08,495.37,2001,2005,5,c(2001),c(2001),c(2005),lose some years never all five
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989",CC-BY-4.0,,54.25392,-105.8775,520,ENF,0.4,470,2001,2005,5,c(2001),,2001:2005,none of the fall years are usable due to NEE QC
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998",CC-BY-4.0,,54.09156,-106.00526,540,OSH,0.4,470,2001,2006,6,"c(2001, 2002)",c(2001),2001:2006,none of the fall years are usable due to NEE QC
+CA-TP2,Ontario - Turkey Point 1989 Plantation White Pine,CC-BY-4.0,,42.77441944,-80.458775,212,ENF,8,1036,2002,2007,6,"c(2002, 2005:2007)",2002:2007,"c(2002, 2004:2007)",many missing years may not be worth including
+DE-Akm,Anklam,CC-BY-4.0,,53.86617,13.68342,-1,WET,8.7,558,2009,2014,6,"c(2009, 2012)",c(2009),"c(2009, 2014)",
+DE-Lkb,Lackenberg,CC-BY-4.0,,49.09962,13.30467,1308,ENF,4,1599,2009,2013,5,c(2009),c(2010),,mostly good but some low qc loses a few years
+DE-Spw,Spreewald,CC-BY-4.0,,51.89225,14.03369,61,WET,8.7,558,2010,2014,5,c(2010),c(2013),,
+ES-Amo,Amoladeras,CC-BY-4.0,,36.83361,-2.25232,58,OSH,NA,0,2007,2012,6,"c(2007, 2008)",c(2008),c(2008),big negative GPP something is weird here remove
+JP-SMF,Seto Mixed Forest Site,CC-BY-4.0,,35.2617,137.0788,NA,MF,NA,NA,2002,2006,5,c(2002),"c(2002, 2004)",,only can keep fall for five years
+SD-Dem,Demokeya,CC-BY-4.0,,13.2829,30.4783,500,SAV,26,320,2005,2009,5,2005:2007,2005:2006,2005:2006,not enough site years after filtering
+US-Atq,Atqasuk,CC-BY-4.0,CC-BY-4.0,70.4696,-157.4089,15,WET,-9.7,93,2003,2008,6,c(2003),c(2003),"c(2003, 2008)",something seems wrong with 2003 data
+US-Goo,Goodwin Creek,CC-BY-4.0,,34.2547,-89.8735,87,GRA,15.89,1425.77,2002,2006,5,c(2002),,c(2003),
+US-Me3,Metolius-second young aged pine,CC-BY-4.0,,44.3154,-121.6078,1005,ENF,7.07,719,2004,2009,6,,,c(2009),mostly good aside from fall 2009
+US-Me4,Metolius-old aged ponderosa pine,CC-BY-4.0,,44.4992,-121.6224,922,ENF,7.61,1038.82,1996,2000,5,"c(1996, 1998)",c(1998),c(1998),missing some years may not have five years total
+US-Me6,Metolius Young Pine Burn,CC-BY-4.0,,44.3232842,-121.6078,998,ENF,7.59,494,2010,2014,5,c(2010),,c(2010),only get five years in summer
+US-Myb,Mayberry Wetland,CC-BY-4.0,CC-BY-4.0,38.049861,-121.76498,-4,WET,15.9,338,2010,2014,5,c(2010),c(2010),c(2010),only 4 years max since 2010 is no good
+US-Prr,Poker Flat Research Range Black Spruce Forest,CC-BY-4.0,,65.12367,-147.48756,210,ENF,-2,275,2010,2014,5,c(2010),c(2010),c(2012),only 4 years at most available
+US-Sta,Saratoga,CC-BY-4.0,,41.3966,-106.8024,2069,OSH,5.1,NA,2005,2009,5,2005:2006,2005:2007,2005:2006,never enough years
